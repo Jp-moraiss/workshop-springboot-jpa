@@ -13,7 +13,7 @@ Este projeto é uma API RESTful desenvolvida com **Spring Boot**, **JPA/Hibernat
 
 ## 🛠 Tecnologias
 
-- Java 17  
+- Java 21
 - Spring Boot 3  
 - Spring Data JPA  
 - H2 Database  
